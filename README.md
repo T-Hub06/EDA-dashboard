@@ -19,3 +19,5 @@ An interactive Exploratory Data Analysis (EDA) dashboard built using Streamlit.
 ```bash
 pip install -r requirements.txt
 streamlit run eda_dashboard.py
+
+#LIVE APP: https://eda-dashboard-b5swpmhvhlup6hxeqsti3a.streamlit.app/
